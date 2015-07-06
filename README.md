@@ -6,7 +6,7 @@ Contem as funções:
 * Negativo;
 * Limiarização;
 * Soma;
-* Soma Pnderada;
+* Soma ponderada;
 * Subtração;
 * Convolução;
 * Dilatação;
